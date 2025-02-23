@@ -2,19 +2,19 @@
 
 Below are the user details to be used for testing purposes:
 
-## User 1
+## Admin Details
 
 - **ID**: 1
 - **Email**: a@a.com
 - **Password**: 123
 
-## User 2
+## Employee 1
 
 - **Full Name**: John Doe
 - **Email**: b@b.com
 - **Password**: 123
 
-## User 3
+## Employee 2
 
 - **Full Name**: Jane Smith
 - **Email**: c@c.com
